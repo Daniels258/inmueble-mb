@@ -1,0 +1,22 @@
+{
+  "name": "inmuebles-wb",
+  "version": "1.0.0",
+  "description": "proyecto de inmueble con webpack y babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniels258/inmueble-mb.git"
+  },
+  "keywords": [
+    "daniels258"
+  ],
+  "author": "Daniel Ceballos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniels258/inmueble-mb/issues"
+  },
+  "homepage": "https://github.com/Daniels258/inmueble-mb#readme"
+}
